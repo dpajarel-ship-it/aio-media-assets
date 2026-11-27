@@ -160,7 +160,7 @@
           "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/skyshowtime/cover.png",
           "format": "PNG",
           "resolution": "1280x720",
-          "sizeBytes": 1130333
+          "sizeBytes": 86098
         },
         "focus": {
           "file": "focus.gif",
@@ -168,7 +168,7 @@
           "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/skyshowtime/focus.gif",
           "format": "GIF",
           "resolution": "1280x720",
-          "sizeBytes": 850903
+          "sizeBytes": 93146
         },
         "backdrop": {
           "file": "backdrop.jpg",
@@ -197,7 +197,7 @@
           "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/a3-movistar/cover.png",
           "format": "PNG",
           "resolution": "1280x720",
-          "sizeBytes": 1152440
+          "sizeBytes": 89369
         },
         "focus": {
           "file": "focus.gif",
@@ -205,7 +205,7 @@
           "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/a3-movistar/focus.gif",
           "format": "GIF",
           "resolution": "1280x720",
-          "sizeBytes": 859960
+          "sizeBytes": 93740
         },
         "backdrop": {
           "file": "backdrop.jpg",
