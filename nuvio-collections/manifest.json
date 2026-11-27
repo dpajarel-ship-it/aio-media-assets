@@ -1,0 +1,266 @@
+{
+  "collection": "Nuvio Collections",
+  "description": "Recursos gráficos para las colecciones de servicios de streaming en Nuvio / AIOStreams",
+  "baseUrl": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections",
+  "services": {
+    "netflix": {
+      "name": "Netflix",
+      "images": {
+        "cover": {
+          "file": "cover.png",
+          "path": "nuvio-collections/netflix/cover.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/netflix/cover.png",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 70924
+        },
+        "focus": {
+          "file": "focus.gif",
+          "path": "nuvio-collections/netflix/focus.gif",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/netflix/focus.gif",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 68903
+        },
+        "backdrop": {
+          "file": "backdrop.jpg",
+          "path": "nuvio-collections/netflix/backdrop.jpg",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/netflix/backdrop.jpg",
+          "format": "JPEG",
+          "resolution": "1920x1080",
+          "sizeBytes": 274665
+        },
+        "logo": {
+          "file": "logo.png",
+          "path": "nuvio-collections/netflix/logo.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/netflix/logo.png",
+          "format": "PNG",
+          "resolution": "1920x1080",
+          "sizeBytes": 63082
+        }
+      }
+    },
+    "prime-video": {
+      "name": "Prime Video",
+      "images": {
+        "cover": {
+          "file": "cover.png",
+          "path": "nuvio-collections/prime-video/cover.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/prime-video/cover.png",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 76474
+        },
+        "focus": {
+          "file": "focus.gif",
+          "path": "nuvio-collections/prime-video/focus.gif",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/prime-video/focus.gif",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 75018
+        },
+        "backdrop": {
+          "file": "backdrop.jpg",
+          "path": "nuvio-collections/prime-video/backdrop.jpg",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/prime-video/backdrop.jpg",
+          "format": "JPEG",
+          "resolution": "1920x1080",
+          "sizeBytes": 279613
+        },
+        "logo": {
+          "file": "logo.webp",
+          "path": "nuvio-collections/prime-video/logo.webp",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/prime-video/logo.webp",
+          "format": "WEBP",
+          "resolution": "500x281",
+          "sizeBytes": 18886
+        }
+      }
+    },
+    "hbo-max": {
+      "name": "HBO Max",
+      "images": {
+        "cover": {
+          "file": "cover.png",
+          "path": "nuvio-collections/hbo-max/cover.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/hbo-max/cover.png",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 74693
+        },
+        "focus": {
+          "file": "focus.gif",
+          "path": "nuvio-collections/hbo-max/focus.gif",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/hbo-max/focus.gif",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 74084
+        },
+        "backdrop": {
+          "file": "backdrop.jpg",
+          "path": "nuvio-collections/hbo-max/backdrop.jpg",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/hbo-max/backdrop.jpg",
+          "format": "JPEG",
+          "resolution": "1920x1080",
+          "sizeBytes": 257828
+        },
+        "logo": {
+          "file": "logo.webp",
+          "path": "nuvio-collections/hbo-max/logo.webp",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/hbo-max/logo.webp",
+          "format": "WEBP",
+          "resolution": "500x281",
+          "sizeBytes": 11548
+        }
+      }
+    },
+    "apple-tv": {
+      "name": "Apple TV+",
+      "images": {
+        "cover": {
+          "file": "cover.png",
+          "path": "nuvio-collections/apple-tv/cover.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/apple-tv/cover.png",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 70023
+        },
+        "focus": {
+          "file": "focus.gif",
+          "path": "nuvio-collections/apple-tv/focus.gif",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/apple-tv/focus.gif",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 68695
+        },
+        "backdrop": {
+          "file": "backdrop.jpg",
+          "path": "nuvio-collections/apple-tv/backdrop.jpg",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/apple-tv/backdrop.jpg",
+          "format": "JPEG",
+          "resolution": "1920x1080",
+          "sizeBytes": 277301
+        },
+        "logo": {
+          "file": "logo.png",
+          "path": "nuvio-collections/apple-tv/logo.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/apple-tv/logo.png",
+          "format": "PNG",
+          "resolution": "1920x1080",
+          "sizeBytes": 451233
+        }
+      }
+    },
+    "skyshowtime": {
+      "name": "SkyShowtime",
+      "images": {
+        "cover": {
+          "file": "cover.png",
+          "path": "nuvio-collections/skyshowtime/cover.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/skyshowtime/cover.png",
+          "format": "PNG",
+          "resolution": "1280x720",
+          "sizeBytes": 1130333
+        },
+        "focus": {
+          "file": "focus.gif",
+          "path": "nuvio-collections/skyshowtime/focus.gif",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/skyshowtime/focus.gif",
+          "format": "GIF",
+          "resolution": "1280x720",
+          "sizeBytes": 850903
+        },
+        "backdrop": {
+          "file": "backdrop.jpg",
+          "path": "nuvio-collections/skyshowtime/backdrop.jpg",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/skyshowtime/backdrop.jpg",
+          "format": "JPEG",
+          "resolution": "1920x1080",
+          "sizeBytes": 257076
+        },
+        "logo": {
+          "file": "logo.png",
+          "path": "nuvio-collections/skyshowtime/logo.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/skyshowtime/logo.png",
+          "format": "PNG",
+          "resolution": "1920x1080",
+          "sizeBytes": 53856
+        }
+      }
+    },
+    "a3-movistar": {
+      "name": "Atresplayer / Movistar Plus+",
+      "images": {
+        "cover": {
+          "file": "cover.png",
+          "path": "nuvio-collections/a3-movistar/cover.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/a3-movistar/cover.png",
+          "format": "PNG",
+          "resolution": "1280x720",
+          "sizeBytes": 1152440
+        },
+        "focus": {
+          "file": "focus.gif",
+          "path": "nuvio-collections/a3-movistar/focus.gif",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/a3-movistar/focus.gif",
+          "format": "GIF",
+          "resolution": "1280x720",
+          "sizeBytes": 859960
+        },
+        "backdrop": {
+          "file": "backdrop.jpg",
+          "path": "nuvio-collections/a3-movistar/backdrop.jpg",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/a3-movistar/backdrop.jpg",
+          "format": "JPEG",
+          "resolution": "1920x1080",
+          "sizeBytes": 251234
+        },
+        "logo": {
+          "file": "logo.png",
+          "path": "nuvio-collections/a3-movistar/logo.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/a3-movistar/logo.png",
+          "format": "PNG",
+          "resolution": "1920x1080",
+          "sizeBytes": 21706
+        }
+      }
+    },
+    "disney-plus": {
+      "name": "Disney+",
+      "images": {
+        "cover": {
+          "file": "cover.png",
+          "path": "nuvio-collections/disney-plus/cover.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/disney-plus/cover.png",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 77035
+        },
+        "focus": {
+          "file": "focus.gif",
+          "path": "nuvio-collections/disney-plus/focus.gif",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/disney-plus/focus.gif",
+          "format": "JPEG",
+          "resolution": "1280x720",
+          "sizeBytes": 75688
+        },
+        "backdrop": {
+          "file": "backdrop.jpg",
+          "path": "nuvio-collections/disney-plus/backdrop.jpg",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/disney-plus/backdrop.jpg",
+          "format": "JPEG",
+          "resolution": "1920x1080",
+          "sizeBytes": 307948
+        },
+        "logo": {
+          "file": "logo.png",
+          "path": "nuvio-collections/disney-plus/logo.png",
+          "url": "https://raw.githubusercontent.com/dpajarel-ship-it/aio-media-assets/main/nuvio-collections/disney-plus/logo.png",
+          "format": "PNG",
+          "resolution": "1920x1080",
+          "sizeBytes": 249746
+        }
+      }
+    }
+  }
+}
